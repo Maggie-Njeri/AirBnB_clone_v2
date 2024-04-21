@@ -18,4 +18,4 @@ else:
     CNC = file_storage.FileStorage.CNC
     storage = file_storage.FileStorage()
 
-storage.reload()
+    storage.reload()
